@@ -1,0 +1,92 @@
+
+
+.img-fix{
+    height: 300px;
+   padding: 50x;
+   margin-left: auto;
+   margin-right: ;
+}
+.boxes{
+    margin-top: 10px;
+    height: 300px;
+    width: 250px;
+
+}
+.ribbon{
+    margin:5px;
+    margin-left:5px ;
+    margin-right: 50px;
+    height: 30px;
+}
+
+
+.Bookmyshow{
+    margin-top: 5px;
+    font-family:  poppins;
+    font-weight: bold;
+    color: black;
+    
+    
+}
+
+
+
+.button{
+    font-weight: bold;
+    border-radius: px;
+    padding: 5px;
+    border-width: 2px;
+    
+}
+.Baggeera{
+   
+    height: 470px;
+    width: 220px;
+    background-color: #ffff;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left:15px;
+    margin-bottom: 30px;
+  }
+
+.text-size{
+    font-size: 15px;
+}
+
+.img-fix{
+    background-size: 50vh;
+    background-size: cover;
+    border-radius: 2px;
+}
+.car{
+    margin: 100px;
+}
+
+
+
+.ribbon-img{
+    height: 50px;
+    margin-top: 5px;
+    margin-left:100px;
+    margin-right:20px;
+    font-family:  poppins;
+    font-weight: bold;
+    color: black;
+
+  }
+
+  .ribbons-img{
+    height: 50px;
+    margin-top: 5px;
+    margin-left:20px;
+    margin-right:20px;
+    font-family:  poppins;
+    font-weight: bold;
+    color: black;
+  }
+
+  .experience{
+    margin-top: 20px;
+    height: 270px;
+    margin-left:20px;
+  }
